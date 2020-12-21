@@ -1,0 +1,46 @@
+.App {
+  text-align: center;
+}
+
+form {
+  display: flex;
+  align-items: flex-end;
+  padding: 40px;
+}
+
+.label {
+  display: flex;
+  flex-wrap: wrap;
+  width: 200px;
+}
+
+.button {
+  height: 25px;
+}
+
+.input {
+  margin-top: 10px;
+}
+
+.watches {
+  display: flex;
+  padding: 30px;
+  box-sizing: border-box;
+}
+
+.watch {
+  padding: 10px;
+}
+
+.watch__delete {
+  float: right;
+}
+
+.watch-time {
+  width: 120px;
+}
+
+.watch-box {
+  border: 1px solid black;
+  border-radius: 5px;
+}
